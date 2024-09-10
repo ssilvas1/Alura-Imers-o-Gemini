@@ -30,18 +30,18 @@ Este projeto consiste em uma página web que permite aos usuários buscar por se
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+    git clone https://github.com/ssilvas1/Alura-Imers-o-Gemini.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd nome-do-repositorio
+    cd Alura-Imers-o-Gemini
     ```
 3. Abra o arquivo `index.html` no seu navegador.
 
 ## Contato
 
-Para mais informações, entre em contato com Giovana Fiore.
+Para mais informações, entre em contato com Samuel Silva Santos.
+
 
 ---
 
-2024 - Clínica Veterinária Voz Animal. Todos os direitos reservados.
