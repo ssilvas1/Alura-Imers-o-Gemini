@@ -12,7 +12,7 @@ Bem-vindo ao repositório da **Clínica Veterinária Voz Animal**! Este projeto 
 
 ## Visão Geral
 
-Este projeto consiste em uma página web que permite aos usuários buscar por serviços veterinários oferecidos pela clínica. A aplicação é composta por um frontend em HTML e CSS, e um backend em JavaScript.
+Este projeto consiste em uma página web que permite aos usuários buscar por serviços veterinários oferecidos pela clínica. A aplicação é composta por um frontend em HTML e CSS, e um backend em JavaScript. **Este projeto foi desenvolvido durante um curso da Alura em parceria com o Google Copilot, como parte de uma imersão.**
 
 ## Funcionalidades
 
@@ -41,7 +41,3 @@ Este projeto consiste em uma página web que permite aos usuários buscar por se
 ## Contato
 
 Para mais informações, entre em contato com Samuel Silva Santos.
-
-
----
-
